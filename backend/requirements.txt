@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pillow
+opencv-python
+face-recognition
+qrcode
+requests
+pytesseract
+reportlab
